@@ -1,13 +1,11 @@
-
-
 # Hey, I'm Pratik!
 
-
-
-## Something Bout Myself!
-I am passionate software dev who likes creating things that I like!
+## Something About Myself!
+I am an incredibly passionate software developer who loves creating things that bring other's joy.
 
 ---
-## 🛠 Tools Used Till Now
-Javascript, HTML, CSS, Python, Flask, VS Code, Pycharm,TK inter, Pandas, Selenium, ReactJS, Firebase
 
+## 🛠 Tools I've Mastered So Far
+JavaScript, Python, Flask, React, Express, MongoDB, NodeJS, TKinter, Pandas, Selenium, ReactJS, Firebase and many more...
+
+I have confidently honed my skills with these tools and I'm always eager to take on new challenges!
